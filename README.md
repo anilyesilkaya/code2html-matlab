@@ -1,8 +1,8 @@
-# matlabcode2html
+# code2html for MATLAB
 
 > Convert MATLAB code into clean, VS Code–style HTML with syntax highlighting, line numbers, and monospaced formatting — ideal for documentation, blogs, static sites, and wiki platforms that support HTML.
 
-`matlabcode2html` is a lightweight, browser-based tool that takes raw MATLAB code as input and generates ready-to-paste HTML output. The generated HTML preserves syntax highlighting, indentation, line numbers, and formatting — matching the look and feel of modern editors.
+`code2html` is a lightweight, browser-based tool that takes raw MATLAB code as input and generates ready-to-paste HTML output. The generated HTML preserves syntax highlighting, indentation, line numbers, and formatting — matching the look and feel of modern editors.
 
 No backend, no installation, no plugins, completely client-side.
 
@@ -27,5 +27,6 @@ No backend, no installation, no plugins, completely client-side.
 
 ### Clone the repo
 ```bash
-git clone https://github.com/<your-username>/matlabcode2html.git
-cd matlabcode2html
+git clone https://github.com/anilyesilkaya/code2html-matlab.git
+cd code2html-matlab
+```
